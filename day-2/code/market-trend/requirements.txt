@@ -1,0 +1,8 @@
+crewai 
+'crewai[tools]'
+fastapi
+uvicorn
+sse-starlette
+python-dotenv
+pyyaml
+praw
