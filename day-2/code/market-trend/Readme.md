@@ -37,6 +37,9 @@ This project uses the `crewai` library to create a multi-agent system for analyz
 - `README.md`: This file.
 
 ## Agents and Tasks
+
+<img width="791" alt="Screenshot 2025-06-29 at 3 20 09 PM" src="https://github.com/user-attachments/assets/95d31f5a-c2cb-439f-b4b3-1bd528dbfec9" />
+
 - **Trend Analyst**: Identifies top market trends using web search and scraping tools.
 - **Sentiment Analyst**: Analyzes sentiment around market trends (requires definition).
 - **Competitive Analyst**: Performs competitive analysis (requires definition).
