@@ -21,7 +21,7 @@ Meet your Microsoft MVPs in AI leading this series:
 
 ## 🎬 Session Recordings
 
-- [Webinar Recording Folder (All Sessions)](https://1drv.ms/f/c/7A6BF7D5D458060E/AoIEyzd_kHhFgvRDANMGq_Q?e=M4Q0Tb)
+- [Webinar Recording Folder (All Sessions)](https://1drv.ms/f/c/7a6bf7d5d458060e/EoIEyzd_kHhFgvRDANMGq_QBP-W_laOEQREmzDUhDk4n5w)
 
 ## 📂 Repository Structure
 
