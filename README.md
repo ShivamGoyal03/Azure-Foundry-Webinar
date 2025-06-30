@@ -17,6 +17,11 @@ Meet your Microsoft MVPs in AI leading this series:
 | 27th June    | 1st Session - Basic AI Agents + Azure AI Foundry  |
 | 28th June    | 2nd Session - Azure AI Foundry Hands-on           |
 | 29th June    | 3rd Session - MCP (prebuilt servers) + Deployment |
+---
+
+## 🎬 Session Recordings
+
+- [Webinar Recording Folder (All Sessions)](https://1drv.ms/f/c/7A6BF7D5D458060E/AoIEyzd_kHhFgvRDANMGq_Q?e=M4Q0Tb)
 
 ## 📂 Repository Structure
 
